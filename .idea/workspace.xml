@@ -4,11 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3768d62-ba2f-4fd3-9124-0fd87adcb30b" name="Changes" comment="" />
+    <list default="true" id="f3768d62-ba2f-4fd3-9124-0fd87adcb30b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/controlers/CourseControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/controlers/CourseControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/services/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/services/CourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/services/ICourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-course/src/main/java/com/microservice/course/services/ICourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/#innodb_redo/#ib_redo10" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/#innodb_redo/#ib_redo10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/#innodb_redo/#ib_redo41_tmp" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/#innodb_redo/#ib_redo41_tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/student/students.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/student/students.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/sql-data/db/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/sql-data/db/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controler/StudentControler.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/controler/StudentControler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/persistence/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/persistence/IStudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/services/IStudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/services/IStudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/services/StudentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/microservice-student/src/main/java/com/microservice/student/services/StudentServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -16,9 +43,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2bS0jOdm10CukwHQWXJhlBwYbES" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -27,20 +54,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.MicroserviceEurekaApplication.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "iniciando",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.MicroserviceCourseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MicroserviceEurekaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MicroserviceStudentApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.microservice-course: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.microservice-student.db: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.microservice-student: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;correcciones&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.platform.ide.impl.presentationAssistant.PresentationAssistantConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.MicroserviceCourseApplication">
+    <configuration name="MicroserviceCourseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.course.MicroserviceCourseApplication" />
+      <module name="microservice-course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MicroserviceEurekaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.microservice.eureka.MicroserviceEurekaApplication" />
       <module name="microservice-eureka" />
@@ -54,9 +100,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MicroserviceStudentApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.student.MicroserviceStudentApplication" />
+      <module name="microservice-student" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.student.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="microservice-course: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="microservice-course/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="microservice-student: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="microservice-student/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MicroserviceCourseApplication" />
+        <item itemvalue="Application.MicroserviceStudentApplication" />
         <item itemvalue="Application.MicroserviceEurekaApplication" />
+        <item itemvalue="Docker.microservice-student: Compose Deployment" />
+        <item itemvalue="Docker.microservice-course: Compose Deployment" />
       </list>
     </recent_temporary>
   </component>
@@ -77,5 +162,16 @@
       <updated>1706193310229</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/microservice-eureka/src/main/java/com/microservice/eureka/MicroserviceEurekaApplication.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
