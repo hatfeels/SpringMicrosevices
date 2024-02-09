@@ -1,17 +1,20 @@
 package com.microservice.student.services;
 
 import com.microservice.student.entities.Student;
-import com.microservice.student.persistence.StudentRepository;
+import com.microservice.student.persistence.IStudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Service
 public class StudentServiceImpl implements IStudentService {
 
     @Autowired
-    private StudentRepository studentRepository;
+    private IStudentRepository studentRepository;
     @Override
     public List<Student> findAll() {
+
         return (List<Student>) studentRepository.findAll();
     }
 

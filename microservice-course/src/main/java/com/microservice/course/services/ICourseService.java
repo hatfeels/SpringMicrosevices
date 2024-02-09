@@ -14,5 +14,4 @@ public interface ICourseService {
 
     StudentsByCourseResponse findStudentsByIdCourse(Long idCourse);
 
-
 }

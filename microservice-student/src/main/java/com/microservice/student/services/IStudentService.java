@@ -4,6 +4,7 @@ import com.microservice.student.entities.Student;
 
 import java.util.List;
 
+
 public interface IStudentService {
 
     List<Student> findAll();

@@ -7,13 +7,13 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("api/courses")
+@RequestMapping("/api/courses")
 public class CourseControler {
 
     @Autowired
     private ICourseService courseService;
 
-    @GetMapping("/create")
+    @PostMapping("/create")
     public void saveCourse(@RequestBody Course course) {
         courseService.save(course);
     }
